@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+Name :C.SHRENIDHI
+Roll no:212223040196
+
 
 
 
@@ -78,24 +78,40 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ## Programs for arithmetic  operations
 
 ## Addition  of 8 bit ALP 
+![E1](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/3a40d77f-01b6-4691-bbae-2ac6f15efd9d)
 
 
 
 ## Output  
+![E2](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/5b127866-06cf-4a7f-a7af-8ac004276056)
+
  
 ## Subtraction   of 8 bit numbers  ALP 
+![E3](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/b526ac33-96e2-4687-a944-f529700f1462)
+
  
 ## Output  
+![E4](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/4db7dca7-9dba-4aa5-b25c-d2799b86232e)
+
 ## Multiplication alp 
+![E5](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/f7a829fc-3180-4a9a-86ad-98bbe2980e3a)
+
  ## Output  
+ ![E6](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/21f17861-d4ae-4313-8b23-55210a06f431)
+
 
 
 ## Division alp 
+![E7](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/38c1fe24-3cf2-4678-8c70-53507102c7d6)
+
 
 ## Output  
+![E8](https://github.com/vasanthkumarch/EXPERIMENT--01-ALP-FOR-8086/assets/155261096/b620b6b3-5f40-4a8b-ab81-bd85e2f24422)
+
 
 
 ## Result :
+Thus, this program is developed to write and execute ALP on fundamental Arithmetic AND Logical operations.
  
 
 
